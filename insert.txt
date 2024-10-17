@@ -1,0 +1,12 @@
+if x > 5 and y < 10
+    print result
+else
+    read input
+    while not finished
+        int count = count + 1
+        if count = 100 or count = 200
+            print "Milestone reached"
+        
+x1 = 42 * (17 + 8)
+unknown_token@
+some_variable123 = 15 % 4
